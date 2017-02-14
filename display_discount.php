@@ -1,3 +1,9 @@
+<?php
+      $product_description=(INPUT_POST,'product_description');
+      $list_price=(INPUT_POST,'list_price');
+      $discount_percent=(INPUT_POST,'discount_percent');
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
