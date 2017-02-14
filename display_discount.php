@@ -27,16 +27,16 @@
         <span><?php echo $product_description; ?></span><br>
 
         <label>List Price:</label>
-        <span><?php echo $list_price; ?></span><br>
+        <span><?php echo $list_price_f; ?></span><br>
 
         <label>Standard Discount:</label>
-        <span><?php echo $discount_percent; ?></span><br>
+        <span><?php echo $discount_percent_f; ?></span><br>
 
         <label>Discount Amount:</label>
-        <span><?php echo $discount; ?></span><br>
+        <span><?php echo $discount_f; ?></span><br>
 
         <label>Discount Price:</label>
-        <span><?php echo $discount_price; ?></span><br>
+        <span><?php echo $discount_price_f; ?></span><br>
     </main>
 </body>
 </html>
